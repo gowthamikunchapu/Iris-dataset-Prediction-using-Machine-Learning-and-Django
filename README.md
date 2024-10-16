@@ -3,7 +3,7 @@ Overview
 This project builds a web-based application to predict the species of Iris flowers (Setosa, Versicolor, Virginica) using machine learning. Users enter sepal and petal dimensions, and the system provides real-time predictions via a Django-powered interface.
 
 Technologies Used
-Machine Learning: Logistic Regression, Decision Tree, or KNN
+Machine Learning:KNN
 Dataset: Iris dataset
 Web Framework: Django
 Frontend: HTML, CSS, Bootstrap
